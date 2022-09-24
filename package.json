@@ -1,7 +1,7 @@
 {
   "name": "notesapp",
   "version": "0.1.0",
-  "homepage": "https://FKandemir09.github.io/NoteApp",
+  "homepage": "https://farukkandemir.github.io/NoteApp",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
